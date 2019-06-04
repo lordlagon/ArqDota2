@@ -11,7 +11,6 @@ namespace ArqDota2.Models
         {
             public string Duracao { get; set; }
             public DateTime DataCampeonato { get; set; }
-            //gh
         }
     }
 }
