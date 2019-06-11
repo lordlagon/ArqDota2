@@ -1,7 +1,7 @@
 ﻿using ApiDota.Models;
 using System.Threading.Tasks;
 
-namespace ApiDota
+namespace ApiDota.Interfaces
 {
     public interface IApi
     {

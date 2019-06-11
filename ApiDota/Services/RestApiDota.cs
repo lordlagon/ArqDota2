@@ -1,8 +1,9 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using ApiDota.Interfaces;
 using ApiDota.Models;
+using System;
+using System.Threading.Tasks;
 
-namespace ApiDota
+namespace ApiDota.Services
 {
     public class RestApiDota : IApi
     {

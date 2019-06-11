@@ -11,5 +11,10 @@ namespace ArqDota2.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
+
+        public async Task getPlayer()
+        {
+            await IApi
+        } 
     }
 }
